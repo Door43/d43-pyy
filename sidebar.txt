@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pyy:home|Door43 (pyy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pyy|d43-pyy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pyy/archive/master.zip|d43-pyy.zip]]
+
+**Recent Changes**
+{{changes>ns = pyy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pyy|Ethnologue data]]
+
